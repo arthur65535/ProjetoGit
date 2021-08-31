@@ -1,0 +1,1 @@
+Olá, esse projeto é um teste de Git de um completo noob em programação que está correndo contra o tempo pra não se foder na faculdade e na vida.
